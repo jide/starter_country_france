@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Starter: Country France feature.
+ */
+
+include_once 'starter_country_france.features.inc';
